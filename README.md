@@ -1,48 +1,44 @@
-# 👋 Hi, I'm Nikhil
+# 👋 Hi, I'm Nikhil Shekhawat
 
-🎓 BTech Mechanical Engineering Student
-🌍 Aspiring Engineer in Germany 🇩🇪
-💡 Focused on building strong fundamentals & technical skills
+🎓 First-year student pursuing a degree in Artificial Intelligence & DevOps
+🏫 Jain Deemed-to-be University, Bengaluru
+💡 Passionate about AI, technology, and continuous learning
 
 ---
 
 ## 🚀 About Me
 
-I am a first-year Mechanical Engineering student with a strong interest in engineering, problem-solving, and global career opportunities.
+I am Nikhil Shekhawat, currently in my first year of pursuing a degree in Artificial Intelligence and DevOps at Jain Deemed-to-be University, Bengaluru. I enjoy learning new technologies, understanding how systems work, and building practical skills in the field of AI and development.
 
-* 🔧 Currently strengthening core subjects: Physics, Mathematics, and Electrical Engineering
-* 🇩🇪 Learning German (A1 Level) with the goal of reaching B2
-* 🎯 Target: Higher studies in Germany (Public Universities)
-* 💻 Exploring web development and technical tools
+* 🤖 Exploring the foundations of Artificial Intelligence
+* ⚙️ Learning DevOps concepts and tools
+* 💻 Developing technical skills through hands-on practice
+* 📚 Building a strong academic and practical foundation
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Web Development
+### 💻 Web & Development
 
 * HTML5
-* Tailwind CSS
+* CSS
+* Git & GitHub
 
-### ⚙️ Engineering Skills
+### 🤖 AI & Tech Skills
 
-* Engineering Physics (Electrostatics)
-* Engineering Mathematics (Matrices)
-* Basic Electrical Engineering
-
-### 🔧 Tools
-
-* VS Code
-* Git & GitHub (Learning Phase)
-* Technical Documentation
+* Artificial Intelligence fundamentals
+* Python basics
+* Problem solving and logical thinking
+* DevOps learning
 
 ---
 
-## 📚 Current Learning
+## 📚 Education
 
-* 📘 Mechanical Engineering Fundamentals
-* 🌐 Frontend Development (HTML + Tailwind)
-* 🇩🇪 German Language (A1 → B2 Journey)
+* Jain Deemed-to-be University, Bengaluru
+* Degree: Artificial Intelligence & DevOps
+* Year: First Year
 
 ---
 
@@ -50,9 +46,9 @@ I am a first-year Mechanical Engineering student with a strong interest in engin
 
 ### 🔹 Portfolio Website
 
-* Developed a personal portfolio using HTML & Tailwind CSS
-* Clean, responsive, and modern UI
-* Showcases skills, education, and career goals
+* Personal portfolio website built using HTML
+* Clean and simple design
+* Showcases my profile and academic interests
 
 🚧 More projects coming soon...
 
@@ -60,26 +56,16 @@ I am a first-year Mechanical Engineering student with a strong interest in engin
 
 ## 🎯 Career Goals
 
-* ✅ Master core Mechanical Engineering concepts
-* ✅ Achieve B2 level in German
-* ✅ Study in Germany (Public University)
-* ✅ Work in a global engineering environment
-
----
-
-## 📊 GitHub Stats (Coming Soon)
-
-I am currently building my profile and will be adding:
-
-* More projects
-* Contributions
-* Open-source participation
+* ✅ Build strong knowledge in AI and DevOps
+* ✅ Improve technical and practical skills
+* ✅ Explore real-world projects and internships
+* ✅ Grow as a future technology professional
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: your-email@example.com
 * 💼 LinkedIn: https://linkedin.com/in/yourprofile
 * 💻 GitHub: https://github.com/yourusername
 
@@ -87,8 +73,8 @@ I am currently building my profile and will be adding:
 
 ## ⚡ Fun Fact
 
-I am building my journey step-by-step — from fundamentals to global engineering opportunities 🚀
+I am taking my first steps in technology with curiosity, consistency, and a strong desire to learn. 
 
 ---
 
-⭐ *“Consistency > Motivation”*
+⭐ *“Learning every day is the path to growth.”*
